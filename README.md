@@ -83,6 +83,8 @@ card-validator/
 ├── test_card_validator.py
 ├── README.md
 
+---
+
 ## 🧠 Aprendizados
 
 - Como estruturar uma aplicação simples e eficaz com IA
